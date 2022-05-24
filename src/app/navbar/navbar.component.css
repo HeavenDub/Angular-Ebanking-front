@@ -1,0 +1,10 @@
+nav {
+    background-color: rgba(208, 255, 0, 0.664) !important;
+
+}
+nav a {
+font-size: large !important;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+font-weight: 600 !important;
+font-style:normal !important;
+}
